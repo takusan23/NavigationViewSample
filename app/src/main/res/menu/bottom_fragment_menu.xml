@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu_java"
+            android:icon="@drawable/ic_outline_settings_24"
+            android:title="Java" />
+        <item
+            android:id="@+id/nav_menu_kotlin"
+            android:icon="@drawable/ic_outline_settings_24"
+            android:title="Kotlin" />
+        <item
+            android:id="@+id/nav_menu_js"
+            android:icon="@drawable/ic_outline_settings_24"
+            android:title="JS" />
+    </group>
+</menu>
